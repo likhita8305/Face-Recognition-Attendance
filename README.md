@@ -11,6 +11,5 @@ This project reduces manual logging time by 70% and improves attendance accuracy
 - Ensures only one face is present for valid attendance.
 - Built using **Python** and **OpenCV**.
 
----
 
-## Folder Structure
+
